@@ -9,7 +9,6 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941622
 TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=E9ymAxKoVJ
 TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=vFR5CkmzbA
-
 年代新聞 HD,http://220.134.196.147:9517/index.m3u8
 年代新聞 HD,http://220.134.196.147:9517/http/116.50.42.18:8088/index.m3u8
 年代新聞 HD,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
@@ -58,6 +57,12 @@ SBN全球財經,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunkli
 原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 原住民族電視台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
 原住民族電視台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8
+##
+
+##直播##,#genre#
+柯南,http://hdltc1.douyucdn.cn/live/5377297rK0DXIk3Z.flv?uuid=
+柯南,http://hdltc1.douyucdn.cn/live/1783144rO1c6InLA.m3u8?uuid=
+柯南,http://hdltc1.douyucdn.cn/live/5189447rosgEz9QW.flv?uuid=
 ##
 
 ##外語-新聞##,#genre#
