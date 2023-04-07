@@ -1,4 +1,7 @@
-﻿##台-新聞##,#genre#
+##YT##,#genre#
+鏡新聞Mnews,https://github.com/wilsonYM/YTM/raw/main/mnews.m3u8
+##
+##台-新聞##,#genre#
 TVBS新聞 HD,rtmp://59.124.75.138/sat/tv551
 TVBS新聞,http://2023.stream-link.org/playlist/tvbs_news.flv
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
