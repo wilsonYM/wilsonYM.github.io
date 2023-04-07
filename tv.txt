@@ -7,7 +7,6 @@
 三立inews,https://raw.githubusercontent.com/wilsonYM/YTM/main/setinews.m3u8
 三立新聞台,https://raw.githubusercontent.com/wilsonYM/YTM/main/setnews.m3u8
 東森財經新聞,https://raw.githubusercontent.com/wilsonYM/YTM/main/57EBC.m3u8
-綜藝玩很大,https://raw.githubusercontent.com/wilsonYM/YTM/main/Mr_Player.m3u8
 民視新聞,https://raw.githubusercontent.com/wilsonYM/YTM/main/FTV_News.m3u8
 台視新聞,https://raw.githubusercontent.com/wilsonYM/YTM/main/TTV_NEWS.m3u8
 ##
