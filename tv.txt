@@ -1,5 +1,6 @@
 ##YT##,#genre#
 鏡新聞Mnews,https://github.com/wilsonYM/YTM/raw/main/mnews.m3u8
+飢餓遊戲,https://github.com/wilsonYM/YTM/raw/main/HungerGames.m3u8
 ##
 ##台-新聞##,#genre#
 TVBS新聞 HD,rtmp://59.124.75.138/sat/tv551
