@@ -9,11 +9,12 @@
 東森財經新聞,https://raw.githubusercontent.com/wilsonYM/YTM/main/57EBC.m3u8
 民視新聞,https://raw.githubusercontent.com/wilsonYM/YTM/main/FTV_News.m3u8
 台視新聞,https://raw.githubusercontent.com/wilsonYM/YTM/main/TTV_NEWS.m3u8
+##
 ##bil虎牙等##,#genre#
 蠟筆小新,https://d1--ov-gotcha105.bilivideo.com/live-bvc/595129/live_22486503_83248053_bluray.m3u8?expires=1680881701&len=0&oi=27638075&pt=web&qn=10000&trid=10030b6bde11774e44ac80cf47cd39369572&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=ov-gotcha105&sign=fac0bc4f6801e67d2d57d236cd3f2e25&sk=54c5c20ce223a922342f4414780ac3fe&p2p_type=0&sl=5&free_type=0&mid=0&pp=rtmp&source=onetier&trace=0&site=23d9ce0123fa688cc367fe1a8979b046&order=1
 蠟筆小新,https://d1--ov-gotcha105.bilivideo.com/live-bvc/258330/live_415611_4082642_bluray.m3u8?expires=1680881803&len=0&oi=27638075&pt=web&qn=10000&trid=1003e070af226d114f1192f71774421e3cba&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=ov-gotcha105&sign=dbe5cd03fa7cf6c1c47fe82abec8e8d3&sk=ac2a37bbe48f15abad264ddfed2835a8&p2p_type=0&sl=3&free_type=0&mid=0&pp=rtmp&source=onetier&trace=0&site=82482460dc9db7020153eb96e8071f74&order=1
-蠟筆小新,https://d1--ov-gotcha105.bilivideo.com/live-bvc/384758/live_12423924_9913341.m3u8?expires=1680881987&len=0&oi=27638075&pt=web&qn=10000&trid=1003ebedda6bee7d40b985fcac7c29e83414&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=ov-gotcha105&sign=3af68ab02b2571b87c3b55155a15b950&sk=728f0af67c8ecfee0b12e60763f509ba&p2p_type=0&sl=1&free_type=0&mid=0&pp=rtmp&source=onetier&trace=0&site=2dabdbcfc1d36c010167461980c3c18a&order=1
-
+蠟筆小新,https://d1--ov-gotcha105.bilivideo.com/live-bvc/824731/live_12423924_9913341.m3u8?expires=1680889310&len=0&oi=27638075&pt=web&qn=10000&trid=10030bf45754e42a4a5ca2d23fc43a9d0ac6&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=ov-gotcha105&sign=4b9661ea802f3c02283b76b9723e42d3&sk=728f0af67c8ecfee0b12e60763f509ba&p2p_type=0&sl=1&free_type=0&mid=0&pp=rtmp&source=onetier&trace=0&site=07c9721b9aa876ac4bdc88f2f924fabe&order=1
+##
 ##台-新聞##,#genre#
 TVBS新聞 HD,rtmp://59.124.75.138/sat/tv551
 TVBS新聞,http://2023.stream-link.org/playlist/tvbs_news.flv
