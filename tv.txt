@@ -93,107 +93,7 @@ SBN全球財經,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunkli
 ##
 
 
-##外語-新聞##,#genre#
-ABC NEWS LIVE,http://tv.redrainl.site:9500/live.m3u8?c=10
-ABC NEWS LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-ABC News,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/abcnewsus.m3u8
-ANN News,http://tv.redrainl.site:9500/live.m3u8?c=29
-BBC 1,http://198.16.64.10:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
-BBC 2,http://198.16.64.10:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
-BBC America,https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
-BBC Earth,http://198.16.64.10:8278/bbcearthtam_raj/playlist.m3u8?tid=MF2F6939094669390946&ct=19254&tsum=7f5b392d1da73ab5861f925702fa1da0
-BBC WORLD NEWS,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
-BBC WORLD NEWS,http://198.16.64.10:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
-BBC WORLD NEWS,http://198.16.64.10:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
-BBC WORLD NEWS,http://198.16.64.10:8278/bbcworldnews_antik/playlist.m3u8?tid=MC4C8251699482516994&ct=19254&tsum=af5b184190d5f3db34f572d83337e180
-BBC 地球,http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
-BETRIA,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/bernamanews.m3u8
-Bloomberg News Asia,https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-Bloomberg News,http://198.16.64.10:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
-Bloomberg News,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloomber.m3u8
-Bloomberg News,http://tv.redrainl.site:9500/live.m3u8?c=14
-Bloomberg News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
-Bloomberg News,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/bloombergfinance.m3u8
-Bloomberg TV Asia Live Event,https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
-Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-CBC News,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
-CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-CNA亞洲新聞 International,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-CNA亞洲新聞 Singapore,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-CNA亞洲新聞,http://198.16.64.10:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
-CNA亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-CNA亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNA亞洲新聞,http://tv.redrainl.site:9500/live.m3u8?c=38
-CNA亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNA亞洲新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
-CNA亞洲新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/cna.m3u8
-CNBC,http://198.16.64.10:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=19225&tsum=268e38e98d745f914c001c83d98b4b60
-CNBC,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/nbc2.m3u8
-CNBC財經台,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
-CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
-CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
-CNN,http://ip2121.com:8081/live/cnn/playlist.m3u8
-CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
-CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-DW 德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklist.m3u8
-DW 德國之聲,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-DW 德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-Euronews,http://198.16.64.10:8278/euronews_antik/playlist.m3u8?tid=MF2F8095655880956558&ct=19225&tsum=30c549f4730e3d83725a443cf0c16bbe
-Euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-Euronews,https://euronews.alteox.app/hls/en_stream.m3u8
-Euronews,https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
-Euronews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
-FOX NEWS,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
-FOX NEWS,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-France 24,http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-France 24,http://tv.redrainl.site:9500/live.m3u8?c=13
-France 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-France 24,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/france24.m3u8
-France 24,https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-France 24,http://198.16.64.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
-GB News UK,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
-HTB Hokkaido NEWS24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
-INDIA TODAY,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-KBS WORLD,http://mytv.dothome.co.kr/ch/catv/7.php
-KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-KBS WORLD,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-NBC NEWS NOW,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-NBC NEWS,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8
-NBC NEWS,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-NBC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-NEWS,http://tv.redrainl.site:9500/live.m3u8?c=41
-NEWS18,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
-NHK World Japan,http://198.16.64.10:8278/nhkworld_japan/playlist.m3u8?tid=MD5D5829793458297934&ct=19225&tsum=88195c0527d1cf627a24133aa7fbacad
-NHK World Japan,http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-NHK World Japan,http://tv.redrainl.site:9500/live.m3u8?c=09
-NHK World Japan,https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index.m3u8
-NHK world Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-NHK World Japan,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-NHK World Japan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-NHK,http://123.51.229.65:18525/.m3u8
-RT News,http://pull-l3-cny.douyincdn.com/live/01a22d8d466a6ef38b80e2ce6cd323c0.m3u8
-RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-Sky News,http://198.16.64.10:8278/allthekpop_korea/playlist.m3u8?tid=MDDD8149394181493941&ct=19225&tsum=9f1d9df0da62cc0a30d0e5357356e012
-TBN Asia,http://210.210.155.35/qwr9ew/s/s39/01.m3u8
-TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-TRT World,http://tv.redrainl.site:9500/live.m3u8?c=35
-TRT World,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/trtworld.m3u8
-TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
-VOA,https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
-日本24新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
-半島新聞台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半島電視台,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-半島電視台,http://live-hls-web-aja.getaj.net/AJA/index.m3u8
-半島電視台,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
-半島電視台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半島電視台,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-半島電視台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/aljazeera.m3u8
 
-##
 
 ##台-綜合##,#genre#
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
@@ -509,6 +409,107 @@ Bili直播-黃餘奇趣電影賞,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc
 Bili直播-影視巷 開心看劇,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/264952/live_11791932_8306012_1500/index.m3u8
 ##
 
+##外語-新聞##,#genre#
+ABC NEWS LIVE,http://tv.redrainl.site:9500/live.m3u8?c=10
+ABC NEWS LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+ABC News,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/abcnewsus.m3u8
+ANN News,http://tv.redrainl.site:9500/live.m3u8?c=29
+BBC 1,http://198.16.64.10:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
+BBC 2,http://198.16.64.10:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
+BBC America,https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
+BBC Earth,http://198.16.64.10:8278/bbcearthtam_raj/playlist.m3u8?tid=MF2F6939094669390946&ct=19254&tsum=7f5b392d1da73ab5861f925702fa1da0
+BBC WORLD NEWS,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
+BBC WORLD NEWS,http://198.16.64.10:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+BBC WORLD NEWS,http://198.16.64.10:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
+BBC WORLD NEWS,http://198.16.64.10:8278/bbcworldnews_antik/playlist.m3u8?tid=MC4C8251699482516994&ct=19254&tsum=af5b184190d5f3db34f572d83337e180
+BBC 地球,http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
+BETRIA,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/bernamanews.m3u8
+Bloomberg News Asia,https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+Bloomberg News,http://198.16.64.10:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
+Bloomberg News,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloomber.m3u8
+Bloomberg News,http://tv.redrainl.site:9500/live.m3u8?c=14
+Bloomberg News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+Bloomberg News,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/bloombergfinance.m3u8
+Bloomberg TV Asia Live Event,https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+CBC News,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+CNA亞洲新聞 International,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+CNA亞洲新聞 Singapore,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA亞洲新聞,http://198.16.64.10:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
+CNA亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA亞洲新聞,http://tv.redrainl.site:9500/live.m3u8?c=38
+CNA亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA亞洲新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+CNA亞洲新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/cna.m3u8
+CNBC,http://198.16.64.10:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=19225&tsum=268e38e98d745f914c001c83d98b4b60
+CNBC,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/nbc2.m3u8
+CNBC財經台,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
+CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
+CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
+CNN,http://ip2121.com:8081/live/cnn/playlist.m3u8
+CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+DW 德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklist.m3u8
+DW 德國之聲,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+DW 德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+Euronews,http://198.16.64.10:8278/euronews_antik/playlist.m3u8?tid=MF2F8095655880956558&ct=19225&tsum=30c549f4730e3d83725a443cf0c16bbe
+Euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+Euronews,https://euronews.alteox.app/hls/en_stream.m3u8
+Euronews,https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+Euronews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+FOX NEWS,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
+FOX NEWS,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+France 24,http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+France 24,http://tv.redrainl.site:9500/live.m3u8?c=13
+France 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+France 24,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/france24.m3u8
+France 24,https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+France 24,http://198.16.64.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
+GB News UK,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+HTB Hokkaido NEWS24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+INDIA TODAY,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+KBS WORLD,http://mytv.dothome.co.kr/ch/catv/7.php
+KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+KBS WORLD,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+NBC NEWS NOW,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+NBC NEWS,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8
+NBC NEWS,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+NBC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+NEWS,http://tv.redrainl.site:9500/live.m3u8?c=41
+NEWS18,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
+NHK World Japan,http://198.16.64.10:8278/nhkworld_japan/playlist.m3u8?tid=MD5D5829793458297934&ct=19225&tsum=88195c0527d1cf627a24133aa7fbacad
+NHK World Japan,http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+NHK World Japan,http://tv.redrainl.site:9500/live.m3u8?c=09
+NHK World Japan,https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index.m3u8
+NHK world Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+NHK World Japan,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+NHK World Japan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+NHK,http://123.51.229.65:18525/.m3u8
+RT News,http://pull-l3-cny.douyincdn.com/live/01a22d8d466a6ef38b80e2ce6cd323c0.m3u8
+RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+Sky News,http://198.16.64.10:8278/allthekpop_korea/playlist.m3u8?tid=MDDD8149394181493941&ct=19225&tsum=9f1d9df0da62cc0a30d0e5357356e012
+TBN Asia,http://210.210.155.35/qwr9ew/s/s39/01.m3u8
+TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+TRT World,http://tv.redrainl.site:9500/live.m3u8?c=35
+TRT World,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/trtworld.m3u8
+TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
+VOA,https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+日本24新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
+半島新聞台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半島電視台,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半島電視台,http://live-hls-web-aja.getaj.net/AJA/index.m3u8
+半島電視台,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+半島電視台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半島電視台,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+半島電視台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/aljazeera.m3u8
+
+##
 
 
 
