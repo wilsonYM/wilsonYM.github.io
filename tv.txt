@@ -9,6 +9,7 @@
 東森財經新聞,https://raw.githubusercontent.com/wilsonYM/YTM/main/57EBC.m3u8
 民視新聞,https://raw.githubusercontent.com/wilsonYM/YTM/main/FTV_News.m3u8
 台視新聞,https://raw.githubusercontent.com/wilsonYM/YTM/main/TTV_NEWS.m3u8
+華視新聞,https://raw.githubusercontent.com/wilsonYM/YTM/main/CtsTw.m3u8
 ##
 ##bil虎牙等##,#genre#
 蠟筆小新,https://d1--ov-gotcha105.bilivideo.com/live-bvc/595129/live_22486503_83248053_bluray.m3u8?expires=1680881701&len=0&oi=27638075&pt=web&qn=10000&trid=10030b6bde11774e44ac80cf47cd39369572&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=ov-gotcha105&sign=fac0bc4f6801e67d2d57d236cd3f2e25&sk=54c5c20ce223a922342f4414780ac3fe&p2p_type=0&sl=5&free_type=0&mid=0&pp=rtmp&source=onetier&trace=0&site=23d9ce0123fa688cc367fe1a8979b046&order=1
