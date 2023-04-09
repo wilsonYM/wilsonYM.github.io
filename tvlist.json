@@ -1,0 +1,172 @@
+{
+    "live": [
+        {
+            "itemid": "uid0000",
+            "name": "鏡新聞Mnews",
+            "num": "00001",
+            "urllist": "https://github.com/wilsonYM/YTM/raw/main/yt_mnews.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "飢餓遊戲",
+            "num": "00002",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/yt_HungerGames.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "歡喜玉玲瓏",
+            "num": "00003",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/yt_Yulinglong.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "寰宇台灣台",
+            "num": "00004",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/yt_globalnewstw1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "寰宇台灣台",
+            "num": "00005",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/yt_globalnewstw2.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立inews",
+            "num": "00006",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/yt_setinews.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立新聞台",
+            "num": "00007",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/yt_setnews.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森財經新聞",
+            "num": "00008",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/yt_57EBC.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民視新聞",
+            "num": "00009",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/yt_FTV_News.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "台視新聞",
+            "num": "00010",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/yt_TTV_NEWS.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "華視新聞",
+            "num": "00011",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/yt_CtsTw.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "蠟筆小新",
+            "num": "00012",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/bilbil_Crayon_Shinchan1.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "蠟筆小新",
+            "num": "00013",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/bilbil_Crayon_Shinchan2.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "蠟筆小新",
+            "num": "00014",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/bilbil_Crayon_Shinchan3.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "蠟筆小新",
+            "num": "00015",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/bilbil_Crayon_Shinchan4.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "名偵探柯南",
+            "num": "00016",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/bilbil_Conan.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "小新多拉A夢小丸子柯南",
+            "num": "00017",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/bilbil_more_TV_24.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "多拉A夢",
+            "num": "00018",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/bilbil_Doraemon1.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "多拉A夢",
+            "num": "00019",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/bilbil_Doraemon2.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "多拉A夢",
+            "num": "00020",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/bilbil_Doraemon3.m3u8"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "名偵探柯南",
+            "num": "00021",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/douyu_Conan.m3u8"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "奔跑吧男孩",
+            "num": "00022",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/douyu_running_man1.m3u8"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "奔跑吧男孩",
+            "num": "00023",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/douyu_running_man2.m3u8"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "海綿寶寶",
+            "num": "00024",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/huya_spongebob1.m3u8"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "海綿寶寶",
+            "num": "00025",
+            "urllist": "https://raw.githubusercontent.com/wilsonYM/YTM/main/huya_spongebob2.m3u8"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid0000",
+            "name": "##YT##,#genre#"
+        },
+        {
+            "id": "uid0001",
+            "name": "##bil##,#genre#"
+        },
+        {
+            "id": "uid0002",
+            "name": "##鬥魚##,#genre#"
+        },
+        {
+            "id": "uid0003",
+            "name": "##虎牙##,#genre#"
+        }
+    ]
+}
