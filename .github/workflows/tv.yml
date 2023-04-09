@@ -1,0 +1,78 @@
+name: Get tv Live m3u8
+on:
+  schedule:
+    - cron: '0 0/2 * * *'
+
+  pull_request:
+    branches:
+      - main
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: config
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+    - name: Install yt-dlp
+      run: |
+        sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+        sudo chmod a+rx /usr/local/bin/yt-dlp
+    - name: Install PyExecJS
+      run: |
+        pip install PyExecJS
+    - name: Install streamlink
+      run: |
+        pip install streamlink
+###########################################################################################   
+#test
+    - name: Get test.txt
+      run: |
+        touch ./test.txt
+        sudo cat >./test.txt <<EOL
+        新聞,#genre#
+        鏡新聞,$(yt-dlp -g https://www.youtube.com/@mnews-tw/live)
+        寰宇新聞台1,$(yt-dlp -g https://www.youtube.com/@globalnewstw/live)
+        寰宇新聞台2,$(yt-dlp -g https://www.youtube.com/watch?v=B7Zp3d6xXWw)
+        東森財經新聞,$(yt-dlp -g https://www.youtube.com/@57ETFN/live)
+        三立新聞台,$(yt-dlp -g https://www.youtube.com/@setnews/live)
+        三立inews,$(yt-dlp -g https://www.youtube.com/@setinews/live)
+        華視新聞,$(yt-dlp --proxy SOCKS5://jdes6209:EgXe53xPNF@74.120.123.83:50101 -g https://www.youtube.com/@CtsTw/live)
+        民視新聞,$(yt-dlp -g https://www.youtube.com/@FTV_News/live)
+        台視新聞,$(yt-dlp -g https://www.youtube.com/@TTV_NEWS/live)
+        ##
+        綜藝,#genre#
+        飢餓遊戲,$(yt-dlp -g https://www.youtube.com/@HungerGames123/live)
+        歡喜玉玲龍,$(yt-dlp -g https://www.youtube.com/@ctvent_classic/live)
+        天才衝衝衝,$(yt-dlp -g https://www.youtube.com/@CTSSHOW/live)
+        ##
+        卡通,#genre#
+        蠟筆小新,$(streamlink --default-stream best --stream-url https://live.bilibili.com/26329057)
+        蠟筆小新,$(streamlink --default-stream best --stream-url https://live.bilibili.com/10375360)
+        蠟筆小新,$(streamlink --default-stream best --stream-url https://live.bilibili.com/27178028)
+        名偵探柯南,$(streamlink --default-stream best --stream-url https://live.bilibili.com/181453)
+        多拉A夢,$(streamlink --default-stream best --stream-url https://live.bilibili.com/14745943)
+        多拉A夢,$(streamlink --default-stream best --stream-url https://live.bilibili.com/27383329)
+        多拉A夢,$(streamlink --default-stream best --stream-url https://live.bilibili.com/27311355)
+        海蓮寶寶,$(streamlink --default-stream best --stream-url https://www.huya.com/20301656)
+        海蓮寶寶,$(streamlink --default-stream best --stream-url https://www.huya.com/19552901)
+        名偵探柯南,$(python3 ./douyu.py 6484910)
+        running_man,$(python3 ./douyu.py 131977)
+        running_man,$(python3 ./douyu.py 7298973)
+        ##
+        EOL
+
+############################################################################################################
+    - name: git add
+      run: |
+        git add -A
+        ls -la
+
+    - name: commit & push
+      run: |
+        git commit -m "links are updated"
+        git push
