@@ -17,8 +17,20 @@ YT新聞,#genre#
 奔跑吧男孩,https://raw.githubusercontent.com/wilsonYM/YTM/main/douyu_running_man2.m3u8
 ##
 台-新聞,#genre#
-TVBS新聞 HD,rtmp://59.124.75.138/sat/tv551
-TVBS新聞,http://2023.stream-link.org/playlist/tvbs_news.flv
+東森新聞,http://2023.stream-link.org/live/1793825065
+東森財經新聞,http://2023.stream-link.org/live/249006034
+華視新聞,http://2023.stream-link.org/live/215730961
+中天新聞,http://2023.stream-link.org/live/1552993665
+中視新聞,http://2023.stream-link.org/live/926790469
+民視新聞,http://2023.stream-link.org/live/1637144344
+寰宇國際新聞,http://2023.stream-link.org/live/1212532853
+寰宇台灣新聞,http://2023.stream-link.org/live/1932250847
+三立財經新聞,http://2023.stream-link.org/live/172551145
+三立新聞,http://2023.stream-link.org/live/1803236734
+三立新聞+,http://2023.stream-link.org/live/1998094138
+台視新聞,http://2023.stream-link.org/live/966381653
+TVBS新聞,http://2023.stream-link.org/live/401131254
+TVBS財經,http://2023.stream-link.org/live/1711676066
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
@@ -37,14 +49,12 @@ TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-台視新聞 HD,http://2023.stream-link.org/playlist/ttv_news.flv
 台視新聞 HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-中視新聞 HD,http://2023.stream-link.org/playlist/ctv_news.flv
 中視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中視新聞 HD,https://ytm2.yuanhsing.cf/twctvnews.m3u8
 華視新聞資訊 HD,http://stream.dsichannel.com:80/hls/cts-news.m3u8
@@ -56,7 +66,6 @@ LIVE三立,http://2023.stream-link.org/playlist/set_news.flv
 寰宇新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 鏡新聞Mnews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 鏡新聞Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
-中天新聞 2(循環直播),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 東森LIVE,http://2023.stream-link.org/playlist/ebc_news.flv
 東森財經 HD,rtmp://59.124.75.138/sat/tv571
 東森財經 HD,http://123.51.230.108:18515/.m3u8
