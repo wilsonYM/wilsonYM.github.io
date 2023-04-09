@@ -1,7 +1,7 @@
 YT新聞,#genre#
-鏡新聞Mnews,https://github.com/wilsonYM/YTM/raw/main/yt_mnews.m3u8
 飢餓遊戲,https://raw.githubusercontent.com/wilsonYM/YTM/main/yt_HungerGames.m3u8
 歡喜玉玲瓏,https://raw.githubusercontent.com/wilsonYM/YTM/main/yt_Yulinglong.m3u8
+鏡新聞Mnews,https://github.com/wilsonYM/YTM/raw/main/yt_mnews.m3u8
 寰宇台灣台,https://raw.githubusercontent.com/wilsonYM/YTM/main/yt_globalnewstw1.m3u8
 寰宇台灣台,https://raw.githubusercontent.com/wilsonYM/YTM/main/yt_globalnewstw2.m3u8
 三立inews,https://raw.githubusercontent.com/wilsonYM/YTM/main/yt_setinews.m3u8
