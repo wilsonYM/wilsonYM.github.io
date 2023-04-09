@@ -74,7 +74,6 @@ TVBS亞洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571
 八大第一 HD,http://123.51.229.65:18539/.m3u8
 八大第一 HD,http://123.51.230.108:18539/.m3u8
 三立台灣,http://220.134.196.147:9531/index.m3u8
-
 三立國際,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156390&extension=ts&play_token=UEKTIim7lP
 中天亞洲,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941638
 中天亞洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ
