@@ -12,7 +12,8 @@ YT新聞,#genre#
 華視新聞,https://raw.githubusercontent.com/wilsonYM/YTM/main/yt_CtsTw.m3u8
 ##
 鬥魚,#genre#
-名偵探柯南,https://raw.githubusercontent.com/wilsonYM/YTM/main/douyu_Conan.m3u8
+名偵探柯南,https://raw.githubusercontent.com/wilsonYM/YTM/main/douyu_Conan1.m3u8
+名偵探柯南,https://raw.githubusercontent.com/wilsonYM/YTM/main/douyu_Conan2.m3u8
 奔跑吧男孩,https://raw.githubusercontent.com/wilsonYM/YTM/main/douyu_running_man1.m3u8
 奔跑吧男孩,https://raw.githubusercontent.com/wilsonYM/YTM/main/douyu_running_man2.m3u8
 ##
