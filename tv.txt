@@ -2,12 +2,14 @@ YT新聞,#genre#
 鏡新聞,https://raw.githubusercontent.com/wilsonYM/vpnytm/main/yt_mnews.m3u8
 寰宇新聞台1,https://raw.githubusercontent.com/wilsonYM/vpnytm/main/yt_globalnewstw1.m3u8
 寰宇新聞台2,https://raw.githubusercontent.com/wilsonYM/vpnytm/main/yt_globalnewstw2.m3u8
+東森新聞,https://raw.githubusercontent.com/wilsonYM/vpnytm/main/yt_51EBC.m3u8
 東森財經新聞,https://raw.githubusercontent.com/wilsonYM/vpnytm/main/yt_57EBC.m3u8
 三立新聞台,https://raw.githubusercontent.com/wilsonYM/vpnytm/main/yt_setnews.m3u8
 三立inews,https://raw.githubusercontent.com/wilsonYM/vpnytm/main/yt_setinews.m3u8
 華視新聞 CH52,https://raw.githubusercontent.com/wilsonYM/vpnytm/main/yt_CtsTw.m3u8
 民視新聞,https://raw.githubusercontent.com/wilsonYM/vpnytm/main/yt_FTV_News.m3u8
 台視新聞,https://raw.githubusercontent.com/wilsonYM/vpnytm/main/yt_TTV_NEWS.m3u8
+TVBS,https://raw.githubusercontent.com/wilsonYM/vpnytm/main/yt_TVBS.m3u8
 公視,https://raw.githubusercontent.com/wilsonYM/vpnytm/main/yt_ptslivestream.m3u8
 YT綜藝卡通,#genre#
 我們這一家,https://raw.githubusercontent.com/wilsonYM/vpnytm/main/yt_Our_family.m3u8
