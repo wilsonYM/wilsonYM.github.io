@@ -27,7 +27,7 @@ YT綜藝卡通,#genre#
 台南跨年,https://raw.githubusercontent.com/wilsonYM/vpnytm/main/2024_TN.m3u8
 高雄跨年,https://raw.githubusercontent.com/wilsonYM/vpnytm/main/2024_KH.m3u8
 桃園跨年,https://raw.githubusercontent.com/wilsonYM/vpnytm/main/2024_TU.m3u8
-湖南衛視,https://raw.githubusercontent.com/wilsonYM/vpnytm/main/2024_CH.m3u8
+湖南衛視,https://raw.githubusercontent.com/wilsonYM/vpnytm/main/2024_CH2.m3u8
 浙江卫视,https://raw.githubusercontent.com/wilsonYM/vpnytm/main/2024_ZJ.m3u8
 
 ##
